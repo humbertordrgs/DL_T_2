@@ -3,6 +3,6 @@
 
 This project is a the second part of the Quickstart to Neural Networks using Pytorch the goal is the understanding of the most basic concepts and the creation of a first model using fixed parameters, however, the code built is general enough to support more complex models that the are being explored in this work.
 
-[Colab link](https://colab.research.google.com/github/humbertordrgs/DL_T_2/blob/develop/answers.ipynb)
+[Colab link](https://colab.research.google.com/github/humbertordrgs/DL_T_2/blob/master/answers.ipynb)
 
 Comments are enabled and are welcomed.
